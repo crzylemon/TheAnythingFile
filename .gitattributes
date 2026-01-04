@@ -1,0 +1,2 @@
+*.tafv filter=lfs diff=lfs merge=lfs -text
+*.avi filter=lfs diff=lfs merge=lfs -text
